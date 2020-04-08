@@ -1,13 +1,13 @@
 {
-	"name": "@abhijithvijayan/tsconfig",
+	"name": "@drmikecrowe/tsconfig",
 	"version": "1.1.2",
 	"description": "TypeScript configuration I use for my projects",
 	"license": "MIT",
-	"repository": "https://github.com/abhijithvijayan/tsconfig.git",
+	"repository": "https://github.com/drmikecrowe/tsconfig.git",
 	"author": {
-		"name": "abhijithvijayan",
-		"email": "34790378+abhijithvijayan@users.noreply.github.com",
-		"url": "https://abhijithvijayan.in"
+		"name": "drmikecrowe",
+		"email": "drmikecrowe@gmail.com",
+		"url": "https://github.com/drmikecrowe"
 	},
 	"engines": {
 		"node": ">=10.0.0"
@@ -22,6 +22,6 @@
 	"keywords": [
 		"typescript",
 		"tsconfig",
-		"abhijithvijayan"
+		"drmikecrowe"
 	]
 }
